@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Parse-ExuberantCTags
-version:            1.00
+version:            1.01
 abstract:           Efficiently parse exuberant ctags files
 author:
     - Steffen Mueller <smueller@cpan.org>
